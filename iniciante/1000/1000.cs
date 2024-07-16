@@ -1,7 +1,11 @@
-using System;
+using System; 
 
+class URI {
 
-public static void Main(string[] args)
-{
-  Console.WriteLine("Try programiz.pro");
+    static void Main(string[] args) { 
+
+      Console.WriteLine("Hello World!");
+
+    }
+
 }
