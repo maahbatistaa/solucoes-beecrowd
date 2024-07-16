@@ -14,7 +14,7 @@ Resolução dos problemas do Beecrowd
 | Geometria Computacional | 0 | 83 |
 | SQL | 0 | 50 |
 |  |  |  | 
-| Total | 0 | 2407 |
+| Total | 1 | 2407 |
 
 ## Linguagens utilizadas
 
