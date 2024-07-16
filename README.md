@@ -4,7 +4,7 @@ Resolução dos problemas do Beecrowd
 ## Quantidade de Exercicios Resolvidos
 | Categoria | Resolvidos | Total | 
 | --- | :---: | :---: |
-| Iniciante | 1 | 334 |
+| [Iniciante](./iniciante) | 1 | 334 |
 | Ad-Hoc | 0 | 849| 
 | Strings | 0 | 150 |
 | Estruturas e Bibliotecas | 0 | 180 |
