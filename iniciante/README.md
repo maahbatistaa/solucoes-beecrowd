@@ -1,4 +1,4 @@
-## Iniciante (9/334)
+## Iniciante (11/334)
 | # | Nome | Linguagem |
 | :---: | :---: | :---: | 
 | [1000](./1000/) | Hello World! | [Java](./1000/b1000.java) / [JavaScript](./1000/b1000.js) | 
@@ -10,6 +10,8 @@
 | [1006](./1006/) | Média 2 | [Java](./1006/b1006.java) / [JavaScript](./1006/b1006.js) | 
 | [1007](./1007/) | Diferença | [Java](./1007/b1007.java) / [JavaScript](./1007/b1007.js) | 
 | [1008](./1008/) | Salário | [Java](./1008/b1008.java) / [JavaScript](./1008/b1008.js) | 
+| [1009](./1009/) | Salário com Bônus | [Java](./1009/b1009.java) / [JavaScript](./1009/b1009.js) | 
+| [1010](./1010/) | Cálculo Simples | [Java](./1010/b1010.java) / [JavaScript](./1010/b1010.js) | 
 
 
 
