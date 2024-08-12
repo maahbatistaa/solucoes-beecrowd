@@ -1,4 +1,4 @@
-## Iniciante (16/334)
+## Iniciante (19/334)
 | # | Nome | Linguagem |
 | :---: | :---: | :---: | 
 | [1000](./1000/) | Hello World! | [Java](./1000/b1000.java) / [JavaScript](./1000/b1000.js) | 
@@ -17,6 +17,9 @@
 | [1013](./1013/) | O Maior | [Java](./1013/b1013.java) / [JavaScript](./1013/b1013.js) | 
 | [1014](./1014/) | O Maior | [Java](./1014/b1014.java) / [JavaScript](./1014/b1014.js) | 
 | [1015](./1015/) | O Maior | [Java](./1015/b1015.java) / [JavaScript](./1015/b1015.js) | 
+| [1016](./1016/) | O Maior | [Java](./1016/b1016.java) / [JavaScript](./1016/b1016.js) | 
+| [1017](./1017/) | O Maior | [Java](./1017/b1017.java) / [JavaScript](./1017/b1017.js) | 
+| [1018](./1018/) | O Maior | [Java](./1018/b1018.java) / [JavaScript](./1018/b1018.js) | 
 
 
 
