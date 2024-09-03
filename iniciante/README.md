@@ -1,11 +1,11 @@
 ## Iniciante (19/334)
 | # | Nome | Linguagem |
 | :---: | :---: | :---: | 
-| 1000 | Hello World! | [Java](./java/b1000.java) / [JavaScript](./javascript/b1000.js) | 
-| 1001| Extremamente Básico | [Java](./java/b1001.java) / [JavaScript](./javascript/b1001.js) | 
-| 1002 | Área do Circulo | [Java](./java/b1002.java) / [JavaScript](./javascript/b1002.js) | 
-| 1003| Soma Simples | [Java](./java/b1003.java) / [JavaScript](./javascript/b1003.js) | 
-| 1004 | Produto Simples | [Java](./java/b1004.java) / [JavaScript](./javascript/b1004.js) | 
+| 1000 | Hello World! | [Java](./java/b1000.java) / [JavaScript](./javascript/b1000.js) / [Swift](./swift/b1000.swift) | 
+| 1001| Extremamente Básico | [Java](./java/b1001.java) / [JavaScript](./javascript/b1001.js) / [Swift](./swift/b1001.swift)| 
+| 1002 | Área do Circulo | [Java](./java/b1002.java) / [JavaScript](./javascript/b1002.js) / [Swift](./swift/b1002.swift)| 
+| 1003| Soma Simples | [Java](./java/b1003.java) / [JavaScript](./javascript/b1003.js) / [Swift](./swift/b1003.swift)| 
+| 1004 | Produto Simples | [Java](./java/b1004.java) / [JavaScript](./javascript/b1004.js) / [Swift](./swift/b1004.swift)| 
 | 1005 | Média 1| [Java](./java/b1005.java) / [JavaScript](./javascript/b1005.js) | 
 | 1006| Média 2 | [Java](./java/b1006.java) / [JavaScript](./javascript/b1006.js) | 
 | 1007 | Diferença | [Java](./java/b1007.java) / [JavaScript](./javascript/b1007.js) | 
