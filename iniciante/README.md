@@ -2,14 +2,14 @@
 | # | Nome | Linguagem |
 | :---: | :---: | :---: | 
 | 1000 | Hello World! | [Java](./java/b1000.java) / [JavaScript](./javascript/b1000.js) / [Swift](./swift/b1000.swift) | 
-| 1001| Extremamente Básico | [Java](./java/b1001.java) / [JavaScript](./javascript/b1001.js) / [Swift](./swift/b1001.swift)| 
-| 1002 | Área do Circulo | [Java](./java/b1002.java) / [JavaScript](./javascript/b1002.js) / [Swift](./swift/b1002.swift)| 
-| 1003| Soma Simples | [Java](./java/b1003.java) / [JavaScript](./javascript/b1003.js) / [Swift](./swift/b1003.swift)| 
-| 1004 | Produto Simples | [Java](./java/b1004.java) / [JavaScript](./javascript/b1004.js) / [Swift](./swift/b1004.swift)| 
-| 1005 | Média 1| [Java](./java/b1005.java) / [JavaScript](./javascript/b1005.js) | 
-| 1006| Média 2 | [Java](./java/b1006.java) / [JavaScript](./javascript/b1006.js) | 
-| 1007 | Diferença | [Java](./java/b1007.java) / [JavaScript](./javascript/b1007.js) | 
-| 1008 | Salário | [Java](./java/b1008.java) / [JavaScript](./javascript/b1008.js) | 
+| 1001| Extremamente Básico | [Java](./java/b1001.java) / [JavaScript](./javascript/b1001.js) / [Swift](./swift/b1001.swift) | 
+| 1002 | Área do Circulo | [Java](./java/b1002.java) / [JavaScript](./javascript/b1002.js) / [Swift](./swift/b1002.swift) | 
+| 1003| Soma Simples | [Java](./java/b1003.java) / [JavaScript](./javascript/b1003.js) / [Swift](./swift/b1003.swift) | 
+| 1004 | Produto Simples | [Java](./java/b1004.java) / [JavaScript](./javascript/b1004.js) / [Swift](./swift/b1004.swift) | 
+| 1005 | Média 1| [Java](./java/b1005.java) / [JavaScript](./javascript/b1005.js) / [Swift](./swift/b1005.swift) | 
+| 1006| Média 2 | [Java](./java/b1006.java) / [JavaScript](./javascript/b1006.js) / [Swift](./swift/b1006.swift) | 
+| 1007 | Diferença | [Java](./java/b1007.java) / [JavaScript](./javascript/b1007.js) / [Swift](./swift/b1007.swift) | 
+| 1008 | Salário | [Java](./java/b1008.java) / [JavaScript](./javascript/b1008.js) / [Swift](./swift/b1008.swift) | 
 | 1009 | Salário com Bônus | [Java](./java/b1009.java) / [JavaScript](./javascript/b1009.js) | 
 | 1010 | Cálculo Simples | [Java](./java/b1010.java) / [JavaScript](./javascript/b1010.js) | 
 | 1011 | Esfera | [Java](./java/b1011.java) / [JavaScript](./javascript/b1011.js) | 
