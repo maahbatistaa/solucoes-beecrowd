@@ -10,13 +10,13 @@
 | 1006| Média 2 | [Java](./java/b1006.java) / [JavaScript](./javascript/b1006.js) / [Swift](./swift/b1006.swift) | 
 | 1007 | Diferença | [Java](./java/b1007.java) / [JavaScript](./javascript/b1007.js) / [Swift](./swift/b1007.swift) | 
 | 1008 | Salário | [Java](./java/b1008.java) / [JavaScript](./javascript/b1008.js) / [Swift](./swift/b1008.swift) | 
-| 1009 | Salário com Bônus | [Java](./java/b1009.java) / [JavaScript](./javascript/b1009.js) / [Swift](./swift/b1009.swift)| 
-| 1010 | Cálculo Simples | [Java](./java/b1010.java) / [JavaScript](./javascript/b1010.js) / [Swift](./swift/b1010.swift)| 
-| 1011 | Esfera | [Java](./java/b1011.java) / [JavaScript](./javascript/b1011.js) | 
-| 1012 | Área | [Java](./java/b1012.java) / [JavaScript](./javascript/b1012.js) | 
-| 1013 | O Maior | [Java](./java/b1013.java) / [JavaScript](./javascript/b1013.js) | 
-| 1014 | Consumo | [Java](./java/b1014.java) / [JavaScript](./javascript/b1014.js) | 
-| 1015 | Distância Entre Dois Pontos | [Java](./java/b1015.java) / [JavaScript](./javascript/b1015.js) | 
+| 1009 | Salário com Bônus | [Java](./java/b1009.java) / [JavaScript](./javascript/b1009.js) / [Swift](./swift/b1009.swift) | 
+| 1010 | Cálculo Simples | [Java](./java/b1010.java) / [JavaScript](./javascript/b1010.js) / [Swift](./swift/b1010.swift) | 
+| 1011 | Esfera | [Java](./java/b1011.java) / [JavaScript](./javascript/b1011.js) / [Swift](./swift/b1011.swift) |  
+| 1012 | Área | [Java](./java/b1012.java) / [JavaScript](./javascript/b1012.js) / [Swift](./swift/b1012.swift) | 
+| 1013 | O Maior | [Java](./java/b1013.java) / [JavaScript](./javascript/b1013.js) / [Swift](./swift/b1013.swift)| 
+| 1014 | Consumo | [Java](./java/b1014.java) / [JavaScript](./javascript/b1014.js) / [Swift](./swift/b1014.swift)| 
+| 1015 | Distância Entre Dois Pontos | [Java](./java/b1015.java) / [JavaScript](./javascript/b1015.js) / [Swift](./swift/b1015.swift)| 
 | 1016 | Distância | [Java](./java/b1016.java) / [JavaScript](./javascript/b1016.js) | 
 | 1017 | Gasto de Combustível | [Java](./java/b1017.java) / [JavaScript](./javascript/b1017.js) | 
 | 1018 | Cédulas | [Java](./java/b1018.java) / [JavaScript](./javascript/b1018.js) | 
