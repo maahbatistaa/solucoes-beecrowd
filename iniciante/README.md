@@ -1,4 +1,4 @@
-## Iniciante (19/334)
+## Iniciante (20/334)
 | # | Nome | Linguagem |
 | :---: | :---: | :---: | 
 | 1000 | Hello World! | [Java](./java/b1000.java) / [JavaScript](./javascript/b1000.js) / [Swift](./swift/b1000.swift) | 
@@ -17,9 +17,10 @@
 | 1013 | O Maior | [Java](./java/b1013.java) / [JavaScript](./javascript/b1013.js) / [Swift](./swift/b1013.swift)| 
 | 1014 | Consumo | [Java](./java/b1014.java) / [JavaScript](./javascript/b1014.js) / [Swift](./swift/b1014.swift)| 
 | 1015 | Distância Entre Dois Pontos | [Java](./java/b1015.java) / [JavaScript](./javascript/b1015.js) / [Swift](./swift/b1015.swift)| 
-| 1016 | Distância | [Java](./java/b1016.java) / [JavaScript](./javascript/b1016.js) | 
-| 1017 | Gasto de Combustível | [Java](./java/b1017.java) / [JavaScript](./javascript/b1017.js) | 
-| 1018 | Cédulas | [Java](./java/b1018.java) / [JavaScript](./javascript/b1018.js) | 
+| 1016 | Distância | [Java](./java/b1016.java) / [JavaScript](./javascript/b1016.js) / [Swift](./swift/b1016.swift) | 
+| 1017 | Gasto de Combustível | [Java](./java/b1017.java) / [JavaScript](./javascript/b1017.js) / [Swift](./swift/b1017.swift)| 
+| 1018 | Cédulas | [Java](./java/b1018.java) / [JavaScript](./javascript/b1018.js) / [Swift](./swift/b1018.swift)| 
+| 1019 | Conversão de Tempo | [Java](./java/b1019.java) / [JavaScript](./javascript/b1019.js) / [Swift](./swift/b1019.swift)| 
 
 
 
