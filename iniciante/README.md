@@ -1,4 +1,4 @@
-## Iniciante (20/334)
+## Iniciante (23/334)
 | # | Nome | Linguagem |
 | :---: | :---: | :---: | 
 | 1000 | Hello World! | [Java](./java/b1000.java) / [JavaScript](./javascript/b1000.js) / [Swift](./swift/b1000.swift) | 
@@ -21,6 +21,9 @@
 | 1017 | Gasto de Combustível | [Java](./java/b1017.java) / [JavaScript](./javascript/b1017.js) / [Swift](./swift/b1017.swift)| 
 | 1018 | Cédulas | [Java](./java/b1018.java) / [JavaScript](./javascript/b1018.js) / [Swift](./swift/b1018.swift)| 
 | 1019 | Conversão de Tempo | [Java](./java/b1019.java) / [JavaScript](./javascript/b1019.js) / [Swift](./swift/b1019.swift)| 
+| 1020 | Idade em Dias| [JavaScript](./javascript/b1020.js) / [Swift](./swift/b1020.swift)| 
+| 1021 | Notas e Moedas | [JavaScript](./javascript/b1021.js) / [Swift](./swift/b1021.swift)| 
+| 1035 | Teste de Seleção 1 |  [JavaScript](./javascript/b1035.js) / [Swift](./swift/b1035.swift)| 
 
 
 
